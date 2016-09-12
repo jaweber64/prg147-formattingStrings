@@ -1,0 +1,38 @@
+/* CSS Style file */
+
+.w3-container{
+    max-width: 1060px;
+    margin: 0 auto;
+}
+
+.w3-panel{
+    max-width: 1060px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+    background-image: url("wine.jpg");
+    box-sizing: border-box;
+    color: black;
+}
+
+h1,h3,h5{
+    font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+.head{
+    font-style:italic;
+    font-weight: bold;
+    text-align:center;
+}
+
+.displayquote{
+    background-color: transparent;
+    border-width: 0;
+    font-size: 1.5em;
+    color: black;
+}
